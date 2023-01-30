@@ -1,5 +1,5 @@
 {
-  "name": "Template",
+  "name": "202301-w3ch1-adrian-garcia",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+<enlace git>"
+    "url": "git+https://github.com/Alphenx/202301-w3ch1-adrian-garcia.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "<enlace git>/issues"
+    "url": "https://github.com/Alphenx/202301-w3ch1-adrian-garcia.git/issues"
   },
-  "homepage": "<enlace git>#readme",
+  "homepage": "https://github.com/Alphenx/202301-w3ch1-adrian-garcia.git#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.20.11",
     "@types/jest": "^29.4.0",
